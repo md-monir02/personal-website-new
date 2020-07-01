@@ -64,8 +64,11 @@ section{
     text-align: center;
 }
 .my-latest-work img{
-    width: 400px;
-    padding-left: 5.5%;
+    width: 55%;
+    float: left;
+    width: 27%;
+    padding:5px;
+    padding-left: 5%;
     padding-top: 5%;
 
 }
